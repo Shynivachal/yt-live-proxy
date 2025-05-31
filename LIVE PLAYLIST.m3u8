@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://192.168.177.140:5001/epg.xml.gz"
 #EXTINF:-1 tvg-id=180 tvg-name="Asianet News" tvg-logo="http://192.168.177.140:5001/jtvimage/Asianet_News.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Asianet News
-http://192.168.177.140:5001/live/180.m3u8
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id=465 tvg-name="Jaihind tv" tvg-logo="http://192.168.177.140:5001/jtvimage/Jaihind_tv.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Jaihind tv
 http://192.168.177.140:5001/live/465.m3u8
 #EXTINF:-1 tvg-id=556 tvg-name="Kochu TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Kochu_TV.png" tvg-language="Malayalam" tvg-type="Kids" group-title="Malayalam", Kochu TV
