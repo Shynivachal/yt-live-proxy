@@ -1,0 +1,99 @@
+#EXTM3U x-tvg-url="http://192.168.177.140:5001/epg.xml.gz"
+#EXTINF:-1 tvg-id=180 tvg-name="Asianet News" tvg-logo="http://192.168.177.140:5001/jtvimage/Asianet_News.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Asianet News
+http://192.168.177.140:5001/live/180.m3u8
+#EXTINF:-1 tvg-id=465 tvg-name="Jaihind tv" tvg-logo="http://192.168.177.140:5001/jtvimage/Jaihind_tv.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Jaihind tv
+http://192.168.177.140:5001/live/465.m3u8
+#EXTINF:-1 tvg-id=556 tvg-name="Kochu TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Kochu_TV.png" tvg-language="Malayalam" tvg-type="Kids" group-title="Malayalam", Kochu TV
+http://192.168.177.140:5001/live/556.m3u8
+#EXTINF:-1 tvg-id=563 tvg-name="Kaumudy TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Kaumudy_TV.png" tvg-language="Malayalam" tvg-type="Lifestyle" group-title="Malayalam", Kaumudy TV
+http://192.168.177.140:5001/live/563.m3u8
+#EXTINF:-1 tvg-id=606 tvg-name="Shalom" tvg-logo="http://192.168.177.140:5001/jtvimage/Shalom.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", Shalom
+http://192.168.177.140:5001/live/606.m3u8
+#EXTINF:-1 tvg-id=634 tvg-name="Flower TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Flower_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Flower TV
+http://192.168.177.140:5001/live/634.m3u8
+#EXTINF:-1 tvg-id=648 tvg-name="Mazhavil Manorama" tvg-logo="http://192.168.177.140:5001/jtvimage/Mazhavil_Manorama.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Mazhavil Manorama
+http://192.168.177.140:5001/live/648.m3u8
+#EXTINF:-1 tvg-id=650 tvg-name="Raj News Malayalam" tvg-logo="http://192.168.177.140:5001/jtvimage/Raj_News_Malayalam.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Raj News Malayalam
+http://192.168.177.140:5001/live/650.m3u8
+#EXTINF:-1 tvg-id=662 tvg-name="Manorama News" tvg-logo="http://192.168.177.140:5001/jtvimage/Manorama_News.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Manorama News
+http://192.168.177.140:5001/live/662.m3u8
+#EXTINF:-1 tvg-id=699 tvg-name="DD Malayalam" tvg-logo="http://192.168.177.140:5001/jtvimage/DD_Malayalam.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", DD Malayalam
+http://192.168.177.140:5001/live/699.m3u8
+#EXTINF:-1 tvg-id=710 tvg-name="Kairali TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Kairali_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Kairali TV
+http://192.168.177.140:5001/live/710.m3u8
+#EXTINF:-1 tvg-id=723 tvg-name="Amrita TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Amrita_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Amrita TV
+http://192.168.177.140:5001/live/723.m3u8
+#EXTINF:-1 tvg-id=725 tvg-name="Kairali News" tvg-logo="http://192.168.177.140:5001/jtvimage/Kairali_People_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Kairali News
+http://192.168.177.140:5001/live/725.m3u8
+#EXTINF:-1 tvg-id=731 tvg-name="Kairali WE TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Kairali_WE_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Kairali WE TV
+http://192.168.177.140:5001/live/731.m3u8
+#EXTINF:-1 tvg-id=739 tvg-name="Raj Music Malayalam" tvg-logo="http://192.168.177.140:5001/jtvimage/Raj_Music_Malayalam.png" tvg-language="Malayalam" tvg-type="Music" group-title="Malayalam", Raj Music Malayalam
+http://192.168.177.140:5001/live/739.m3u8
+#EXTINF:-1 tvg-id=747 tvg-name="Surya Music" tvg-logo="http://192.168.177.140:5001/jtvimage/Surya_Music.png" tvg-language="Malayalam" tvg-type="Music" group-title="Malayalam", Surya Music
+http://192.168.177.140:5001/live/747.m3u8
+#EXTINF:-1 tvg-id=780 tvg-name="Mathrubhumi News" tvg-logo="http://192.168.177.140:5001/jtvimage/Mathrubhumi_News.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Mathrubhumi News
+http://192.168.177.140:5001/live/780.m3u8
+#EXTINF:-1 tvg-id=786 tvg-name="Kappa TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Kappa_TV.png" tvg-language="Malayalam" tvg-type="Music" group-title="Malayalam", Kappa TV
+http://192.168.177.140:5001/live/786.m3u8
+#EXTINF:-1 tvg-id=797 tvg-name="testii" tvg-logo="http://192.168.177.140:5001/jtvimage/Sakhi_TV.png" tvg-language="Malayalam" tvg-type="Lifestyle" group-title="Malayalam", testii
+http://192.168.177.140:5001/live/797.m3u8
+#EXTINF:-1 tvg-id=810 tvg-name="Janam TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Janam_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Janam TV
+http://192.168.177.140:5001/live/810.m3u8
+#EXTINF:-1 tvg-id=842 tvg-name="Jeevan TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Jeevan_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Jeevan TV
+http://192.168.177.140:5001/live/842.m3u8
+#EXTINF:-1 tvg-id=844 tvg-name="Mazavali Manorama HD" tvg-logo="http://192.168.177.140:5001/jtvimage/Mazavali_Manorama_HD.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Mazavali Manorama HD
+http://192.168.177.140:5001/live/844.m3u8
+#EXTINF:-1 tvg-id=900 tvg-name="Surya HD" tvg-logo="http://192.168.177.140:5001/jtvimage/Surya_HD.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Surya HD
+http://192.168.177.140:5001/live/900.m3u8
+#EXTINF:-1 tvg-id=910 tvg-name="Media One TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Media_One_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Media One TV
+http://192.168.177.140:5001/live/910.m3u8
+#EXTINF:-1 tvg-id=953 tvg-name="Propex TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Propex_TV.png" tvg-language="Malayalam" tvg-type="Lifestyle" group-title="Malayalam", Propex TV
+http://192.168.177.140:5001/live/953.m3u8
+#EXTINF:-1 tvg-id=965 tvg-name="News 18 Kerala" tvg-logo="http://192.168.177.140:5001/jtvimage/News_18_Kerala.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", News 18 Kerala
+http://192.168.177.140:5001/live/965.m3u8
+#EXTINF:-1 tvg-id=1250 tvg-name="Twenty Four News" tvg-logo="http://192.168.177.140:5001/jtvimage/TWENTY_FOUR_NEWS.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Twenty Four News
+http://192.168.177.140:5001/live/1250.m3u8
+#EXTINF:-1 tvg-id=1284 tvg-name="Vignesh TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Vignesh_TV.PNG" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", Vignesh TV
+http://192.168.177.140:5001/live/1284.m3u8
+#EXTINF:-1 tvg-id=1340 tvg-name="Nick Malayalam" tvg-logo="http://192.168.177.140:5001/jtvimage/Nick_Malayalam.png" tvg-language="Malayalam" tvg-type="Kids" group-title="Malayalam", Nick Malayalam
+http://192.168.177.140:5001/live/1340.m3u8
+#EXTINF:-1 tvg-id=1344 tvg-name="Sonic Malayalam" tvg-logo="http://192.168.177.140:5001/jtvimage/Sonic_Malayalam.png" tvg-language="Malayalam" tvg-type="Kids" group-title="Malayalam", Sonic Malayalam
+http://192.168.177.140:5001/live/1344.m3u8
+#EXTINF:-1 tvg-id=1388 tvg-name="Goodness" tvg-logo="http://192.168.177.140:5001/jtvimage/Goodness_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", Goodness
+http://192.168.177.140:5001/live/1388.m3u8
+#EXTINF:-1 tvg-id=1408 tvg-name="Reporter TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Reporter_TV.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Reporter TV
+http://192.168.177.140:5001/live/1408.m3u8
+#EXTINF:-1 tvg-id=1429 tvg-name="KITE VICTERS" tvg-logo="http://192.168.177.140:5001/jtvimage/KITE_Victers.png" tvg-language="Malayalam" tvg-type="Educational" group-title="Malayalam", KITE VICTERS
+http://192.168.177.140:5001/live/1429.m3u8
+#EXTINF:-1 tvg-id=1455 tvg-name="Janapriyam" tvg-logo="http://192.168.177.140:5001/jtvimage/Janapriyam_News.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="Malayalam", Janapriyam
+http://192.168.177.140:5001/live/1455.m3u8
+#EXTINF:-1 tvg-id=1514 tvg-name="Kannur One" tvg-logo="http://192.168.177.140:5001/jtvimage/Kannur_one.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Kannur One
+http://192.168.177.140:5001/live/1514.m3u8
+#EXTINF:-1 tvg-id=1552 tvg-name="Malanadu TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Malnadu_TV.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="Malayalam", Malanadu TV
+http://192.168.177.140:5001/live/1552.m3u8
+#EXTINF:-1 tvg-id=1618 tvg-name="Real News Kerala" tvg-logo="http://192.168.177.140:5001/jtvimage/Real_News_Kerala.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Real News Kerala
+http://192.168.177.140:5001/live/1618.m3u8
+#EXTINF:-1 tvg-id=1643 tvg-name="Harvest TV 24x7" tvg-logo="http://192.168.177.140:5001/jtvimage/Harvest_TV_24x7.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", Harvest TV 24x7
+http://192.168.177.140:5001/live/1643.m3u8
+#EXTINF:-1 tvg-id=1644 tvg-name="Powervision TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Powervision_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", Powervision TV
+http://192.168.177.140:5001/live/1644.m3u8
+#EXTINF:-1 tvg-id=1662 tvg-name="Surya Comedy" tvg-logo="http://192.168.177.140:5001/jtvimage/Surya_Comedy.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Malayalam", Surya Comedy
+http://192.168.177.140:5001/live/1662.m3u8
+#EXTINF:-1 tvg-id=1666 tvg-name="Safari TV " tvg-logo="http://192.168.177.140:5001/jtvimage/Safari_TV.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="Malayalam", Safari TV 
+http://192.168.177.140:5001/live/1666.m3u8
+#EXTINF:-1 tvg-id=1690 tvg-name="BVTV" tvg-logo="http://192.168.177.140:5001/jtvimage/BVTV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", BVTV
+http://192.168.177.140:5001/live/1690.m3u8
+#EXTINF:-1 tvg-id=1754 tvg-name="Surya Movies" tvg-logo="http://192.168.177.140:5001/jtvimage/Surya_Movies.png" tvg-language="Malayalam" tvg-type="Movies" group-title="Malayalam", Surya Movies
+http://192.168.177.140:5001/live/1754.m3u8
+#EXTINF:-1 tvg-id=1966 tvg-name="Live TV Kerala" tvg-logo="http://192.168.177.140:5001/jtvimage/Live_TV_Kerala.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Live TV Kerala
+http://192.168.177.140:5001/live/1966.m3u8
+#EXTINF:-1 tvg-id=2004 tvg-name="Shekinah TV" tvg-logo="http://192.168.177.140:5001/jtvimage/Shekinah.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", Shekinah TV
+http://192.168.177.140:5001/live/2004.m3u8
+#EXTINF:-1 tvg-id=2205 tvg-name="Guruvayur Devaswom" tvg-logo="http://192.168.177.140:5001/jtvimage/Guruvayur_Devaswom.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", Guruvayur Devaswom
+http://192.168.177.140:5001/live/2205.m3u8
+#EXTINF:-1 tvg-id=2686 tvg-name="Jyothishavartha" tvg-logo="http://192.168.177.140:5001/jtvimage/Jyothishavartha.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Malayalam", Jyothishavartha
+http://192.168.177.140:5001/live/2686.m3u8
+#EXTINF:-1 tvg-id=3174 tvg-name="Malyalam Naaptol" tvg-logo="http://192.168.177.140:5001/jtvimage/Malyalam_Naaptol.png" tvg-language="Malayalam" tvg-type="Shopping" group-title="Malayalam", Malyalam Naaptol
+http://192.168.177.140:5001/live/3174.m3u8
+#EXTINF:-1 tvg-id=3184 tvg-name="News Malayalam" tvg-logo="http://192.168.177.140:5001/jtvimage/News_Malayalam.png" tvg-language="Malayalam" tvg-type="News" group-title="Malayalam", News Malayalam
+http://192.168.177.140:5001/live/3184.m3u8
